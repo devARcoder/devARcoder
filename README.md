@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdur Razzaq</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdur+Razzaq;Frontend+Developer+%7C+React+%7C+Tailwind+%7C+JS;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Frontend+Developer+%7C+React+Dev+%7C+Problem+Solver;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,21 +10,42 @@
 
 ---
 
-### 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm **Abdur Razzaq**, a passionate Frontend Developer focused on building modern, responsive, and interactive web applications.  
-I love crafting sleek UIs using **React.js**, **Tailwind CSS**, and **JavaScript**, and I'm always eager to build, learn, and collaborate.
+<p align="center">
+I'm <strong>Abdur Razzaq</strong>, a passionate <strong>Frontend Developer</strong> who builds sleek, performant, and responsive web apps using <code>React.js</code>, <code>Tailwind CSS</code>, and <code>JavaScript</code>.
+</p>
 
-- 🔭 Currently working on: Resume Builder, Product Details System, Custom UI Tools  
-- 🌱 Learning: Advanced React Patterns, Next.js, and Web Animations  
-- 🤝 Open to: Jobs, freelance gigs & project collaboration  
+- 🔭 Working on: Resume Builder, Product UI, Web Tools  
+- 🌱 Learning: React Patterns, Next.js, Animations  
+- 🤝 Open to: Freelance, remote jobs & collabs  
 - 🌐 Portfolio: [devarcoder.vercel.app](https://devarcoder.vercel.app)
 
 ---
 
-### 🛠️ Tech Stack
+## 🧠 Developer Profile
 
-<p>
+<p align="center">
+  <b>Frontend Developer</b> • <b>Creative Coder</b> • <b>React Dev</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdur-razzaq-8b569a335/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/devARcoder">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://devarcoder.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -32,31 +53,35 @@ I love crafting sleek UIs using **React.js**, **Tailwind CSS**, and **JavaScript
 
 ---
 
-### 📂 Featured Projects
+## 📂 Featured Projects
 
-- 🔹 [**Electronics Store**](https://github.com/devARcoder/Electronics_Store)  
-  A modern electronics product site with responsive layout and sleek UI.  
-  _Vite • React.js • Tailwind CSS • JavaScript_
-
-- 🔹 [**Ecommerce**](https://github.com/devARcoder/Ecommerce)  
-  Fully functional e-commerce UI with dynamic product listings from API.  
-  _React.js • Tailwind CSS • JavaScript • FakeStore API_
-
-- 🔹 [**iNotebook**](https://github.com/devARcoder/iNotebook)  
-  Secure cloud-based notebook app with login, CRUD, and real-time data.  
-  _MERN Stack (MongoDB • Express • React • Node.js)_
+### ⚡ [Electronics Store](https://github.com/devARcoder/Electronics_Store)  
+> A modern product display app with responsive layout and clean UI.  
+🛠 _Vite • React.js • Tailwind CSS • JavaScript_
 
 ---
 
-### 🏆 GitHub Trophies
+### 🛒 [Ecommerce](https://github.com/devARcoder/Ecommerce)  
+> Full-featured e-commerce UI powered by FakeStore API.  
+🛠 _React.js • Tailwind CSS • JavaScript • FakeStore API_
+
+---
+
+### 🗒️ [iNotebook](https://github.com/devARcoder/iNotebook)  
+> Cloud notebook app with authentication, notes CRUD, and MongoDB backend.  
+🛠 _MERN Stack (MongoDB • Express • React • Node.js)_
+
+---
+
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devARcoder&theme=tokyonight&margin-w=15&margin-h=15&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=devARcoder&theme=tokyonight&margin-w=10&margin-h=10&row=1" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devARcoder&show_icons=true&theme=tokyonight" height="150" />
@@ -69,7 +94,7 @@ I love crafting sleek UIs using **React.js**, **Tailwind CSS**, and **JavaScript
 
 ---
 
-### 📈 GitHub Activity Graph
+## 📊 GitHub Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devARcoder&theme=react-dark&hide_border=true&area=true" />
@@ -77,7 +102,15 @@ I love crafting sleek UIs using **React.js**, **Tailwind CSS**, and **JavaScript
 
 ---
 
-### 📫 Contact Me
+## 🎯 Learning Goals
+
+- 🔹 Build advanced & reusable React components  
+- 🔹 Master modern frontend structure & performance  
+- 🔹 Explore animations & UI/UX polish with libraries
+
+---
+
+## 📬 Contact Me
 
 - 📧 Email: [devarcoder789@gmail.com](mailto:devarcoder789@gmail.com)  
 - 🌐 Website: [devarcoder.vercel.app](https://devarcoder.vercel.app)  
@@ -85,14 +118,6 @@ I love crafting sleek UIs using **React.js**, **Tailwind CSS**, and **JavaScript
 
 ---
 
-### 🎯 Learning Goals
-
-- 🔹 Build advanced, reusable React components  
-- 🔹 Learn modern architecture & file structure in frontend projects  
-- 🔹 Master animation libraries and real-time interaction in web apps
-
----
-
-### 🙌 Thanks for visiting!
-
-> _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
+<p align="center">
+  <em>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</em>
+</p>
