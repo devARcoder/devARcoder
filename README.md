@@ -94,14 +94,6 @@ I'm <strong>Abdur Razzaq</strong>, a passionate <strong>Frontend Developer</stro
 
 ---
 
-## 📊 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devARcoder&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
 ## 🎯 Learning Goals
 
 - 🔹 Build advanced & reusable React components  
