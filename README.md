@@ -13,7 +13,7 @@
 ## 🧑‍💻 About Me
 
 <p align="center">
-I'm <strong>Abdur Razzaq</strong>, a passionate <strong>Frontend Developer</strong> who builds sleek, performant, and responsive web apps using <code>React.js</code>, <code>Tailwind CSS</code>, and <code>JavaScript</code>.
+I'm <strong>Abdur Razzaq</strong>, a passionate <strong> Frontend Developer</strong> who builds sleek, performant, and responsive web apps using <code>React.js</code>, <code>Tailwind CSS</code>, and <code>JavaScript</code>.
 </p>
 
 - 🔭 Working on: Resume Builder, Product UI, Web Tools  
@@ -49,7 +49,11 @@ I'm <strong>Abdur Razzaq</strong>, a passionate <strong>Frontend Developer</stro
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
+
 
 ---
 
