@@ -5,20 +5,20 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devARcoder&label=Profile%20views&color=0e75b6&style=flat" alt="devARcoder" />
+  <img src="https://komarev.com/ghpvc/?username=devARcoder&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I’m **Abdur Razzaq**, a passionate Frontend Developer focused on building modern, responsive, and interactive web applications.  
-I love crafting sleek UIs with **React.js**, **Tailwind CSS**, and **JavaScript**, and I’m always eager to learn and collaborate on new projects.
+I'm **Abdur Razzaq**, a passionate Frontend Developer focused on building modern, responsive, and interactive web applications.  
+I love crafting sleek UIs using **React.js**, **Tailwind CSS**, and **JavaScript**, and I'm always eager to build, learn, and collaborate.
 
-- 🔭 I’m currently working on: Resume Builder, Product Details System, Custom Web Tools  
-- 🌱 I’m currently learning: Advanced React Patterns & Performance Optimization  
-- 🤝 I’m open to: Job offers, Freelance projects, and Developer collaborations  
-- 💻 Portfolio: [devarcoder.vercel.app](https://devarcoder.vercel.app)
+- 🔭 Currently working on: Resume Builder, Product Details System, Custom UI Tools  
+- 🌱 Learning: Advanced React Patterns, Next.js, and Web Animations  
+- 🤝 Open to: Jobs, freelance gigs & project collaboration  
+- 🌐 Portfolio: [devarcoder.vercel.app](https://devarcoder.vercel.app)
 
 ---
 
@@ -34,21 +34,17 @@ I love crafting sleek UIs with **React.js**, **Tailwind CSS**, and **JavaScript*
 
 ### 📂 Featured Projects
 
-- 🔹 [**YouTube Clone Using NewsAPI**](https://github.com/devARcoder/Youtube-NewsAPI-Clone)  
-  A clean YouTube-style interface fetching real-time news using NewsAPI.  
-  _HTML • Tailwind CSS • JavaScript_
+- 🔹 [**Electronics Store**](https://github.com/devARcoder/Electronics_Store)  
+  A modern electronics product site with responsive layout and sleek UI.  
+  _Vite • React.js • Tailwind CSS • JavaScript_
 
-- 🔹 [**Fanta Animated Website**](https://github.com/devARcoder/Fanta-Soft-Drinks)  
-  Vibrant brand website with animations and modern UI.  
-  _HTML • Tailwind CSS • CSS Animations_
+- 🔹 [**Ecommerce**](https://github.com/devARcoder/Ecommerce)  
+  Fully functional e-commerce UI with dynamic product listings from API.  
+  _React.js • Tailwind CSS • JavaScript • FakeStore API_
 
-- 🔹 [**Weather App Using OpenWeatherAPI**](https://github.com/devARcoder/Weather-App)  
-  Real-time weather updates with responsive layout.  
-  _HTML • Tailwind CSS • JavaScript_
-
-- 🔹 [**UPTCL React UI Clone**](https://github.com/devARcoder/UPTCL-UI)  
-  Professional web interface using React and TailwindCSS.  
-  _React.js • Tailwind CSS_
+- 🔹 [**iNotebook**](https://github.com/devARcoder/iNotebook)  
+  Secure cloud-based notebook app with login, CRUD, and real-time data.  
+  _MERN Stack (MongoDB • Express • React • Node.js)_
 
 ---
 
@@ -91,12 +87,12 @@ I love crafting sleek UIs with **React.js**, **Tailwind CSS**, and **JavaScript*
 
 ### 🎯 Learning Goals
 
-- 🔹 Building advanced React UI components  
-- 🔹 Improving project architecture  
-- 🔹 Next.js & Animation Libraries
+- 🔹 Build advanced, reusable React components  
+- 🔹 Learn modern architecture & file structure in frontend projects  
+- 🔹 Master animation libraries and real-time interaction in web apps
 
 ---
 
 ### 🙌 Thanks for visiting!
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+> _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
