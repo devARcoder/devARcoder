@@ -13,7 +13,7 @@
 ## 🧑‍💻 About Me
 
 <p align="center">
-I'm <strong>Abdur Razzaq</strong>, a passionate <strong> Frontend Developer</strong> who builds sleek, performant, and responsive web apps using <code>React.js</code>, <code>Tailwind CSS</code>, and <code>JavaScript</code>.
+I'm <strong>Abdur Razzaq</strong>, a passionate <strong>Frontend Developer</strong> who builds sleek, performant, and responsive web apps using <code>React.js</code>, <code>Tailwind CSS</code>, and <code>JavaScript</code>.
 </p>
 
 - 🔭 Working on: Resume Builder, Product UI, Web Tools  
