@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=devARcoder&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-------
+-------
 
 ## 🧑‍💻 About Me
 
@@ -21,7 +21,7 @@ I'm <strong>Abdur Razzaq</strong>, a passionate <strong>Frontend Developer</stro
 - 🤝 Open to: Freelance, remote jobs & collabs  
 - 🌐 Portfolio: [devarcoder.vercel.app](https://devarcoder.vercel.app)
 
-------
+-------
 
 ## 🧠 Developer Profile
 
