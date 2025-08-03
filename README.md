@@ -41,7 +41,7 @@ I'm <strong>Abdur Razzaq</strong>, a passionate <strong>Frontend Developer</stro
   </a>
 </p>
 
--------
+--------
 
 ## 🚀 Tech Stack
 
