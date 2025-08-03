@@ -69,7 +69,7 @@ I'm <strong>Abdur Razzaq</strong>, a passionate <strong>Frontend Developer</stro
 > Full-featured e-commerce UI powered by FakeStore API.  
 🛠 _React.js • Tailwind CSS • JavaScript • FakeStore API_
 
----
+-----
 
 ### 🗒️ [iNotebook](https://github.com/devARcoder/iNotebook)  
 > Cloud notebook app with authentication, notes CRUD, and MongoDB backend.  
