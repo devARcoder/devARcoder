@@ -21,7 +21,7 @@ I'm <strong>Abdur Razzaq</strong>, a passionate <strong>Frontend Developer</stro
 - 🤝 Open to: Freelance, remote jobs & collabs  
 - 🌐 Portfolio: [devarcoder.vercel.app](https://devarcoder.vercel.app)
 
-----------
+--------
 
 ## 🧠 Developer Profile
 
